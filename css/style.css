@@ -44,6 +44,12 @@ a {
 #slider .panel li.p3 {
   background: orange;
 }
+#slider .panel li.p4 {
+  background: lightblue;
+}
+#slider .panel li.p5 {
+  background: lightcoral;
+}
 #slider .prev {
   position: absolute;
   top: 50%;
