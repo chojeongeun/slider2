@@ -39,13 +39,25 @@
 	}
 
 	.prev {
+		width: 40px;
+		height: 25px;
+		font: 13px/25px 'arial';
 		position: absolute;
-		top: 50%;
+		bottom: 10%;
 		left: 50px;
+		border: 1px solid #777;
+		cursor: pointer;
+		background: lightgray;
 	}
 	.next {
+		width: 40px;
+		height: 25px;
+		font: 13px/25px 'arial';
 		position: absolute;
-		top: 50%;
-		right: 50px;
+		bottom: 10%;
+		left: 130px;
+		border: 1px solid #777;
+		cursor: pointer;
+		background: lightgray;
 	}
 }
