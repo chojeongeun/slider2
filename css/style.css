@@ -48,7 +48,37 @@ a {
   background: lightblue;
 }
 #slider .panel li.p5 {
-  background: lightcoral;
+  background: lightseagreen;
+}
+#slider .panel li.p6 {
+  background: lightsteelblue;
+}
+#slider .panel li.p7 {
+  background: lightyellow;
+}
+#slider .panel li.p8 {
+  background: rgb(128, 240, 180);
+}
+#slider .panel li.p9 {
+  background: rgb(184, 128, 240);
+}
+#slider .panel li.p10 {
+  background: rgb(180, 240, 128);
+}
+#slider .panel li.p11 {
+  background: rgb(177, 76, 121);
+}
+#slider .panel li.p12 {
+  background: rgb(93, 177, 175);
+}
+#slider .panel li.p13 {
+  background: rgb(155, 137, 137);
+}
+#slider .panel li.p14 {
+  background: rgb(240, 214, 128);
+}
+#slider .panel li.p15 {
+  background: rgb(64, 87, 191);
 }
 #slider .prev {
   width: 40px;
